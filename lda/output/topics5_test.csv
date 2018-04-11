@@ -1,0 +1,17 @@
+0,"0.020*""flight"" + 0.017*""thank"" + 0.010*""aa"" + 0.008*""�"" + 0.008*""fleet"" + 0.008*""fleek"" + 0.007*""get"" + 0.006*""weather"" + 0.006*""dca"" + 0.006*""good"""
+1,"0.049*""flight"" + 0.026*""hour"" + 0.017*""2"" + 0.015*""time"" + 0.014*""bag"" + 0.013*""plane"" + 0.012*""get"" + 0.011*""delayed"" + 0.011*""still"" + 0.010*""hold"""
+2,"0.010*""seat"" + 0.010*""would"" + 0.009*""like"" + 0.007*""class"" + 0.007*""one"" + 0.007*""airline"" + 0.007*""first"" + 0.007*""fly"" + 0.007*""ticket"" + 0.006*""go"""
+3,"0.039*""service"" + 0.037*""customer"" + 0.031*""thanks"" + 0.012*""guy"" + 0.010*""thank"" + 0.010*""dm"" + 0.010*""great"" + 0.009*""would"" + 0.009*""response"" + 0.009*""like"""
+4,"0.058*""flight"" + 0.035*""cancelled"" + 0.022*""get"" + 0.019*""call"" + 0.018*""help"" + 0.017*""flightled"" + 0.016*""phone"" + 0.011*""change"" + 0.010*""need"" + 0.009*""one"""
+
+
+Bad flight(257) - 2(55),3(51),4(58)  --> cant be distinguished
+cancelled and late (996) - 4(141), 1(235)
+cancelled(345) - 1(176-98) , 3(98)
+
+0 - cancelled flight
+1 -  delay issues (flight or service)
+2 - lost or damaged Luggage FAC FFB
+3 - customer service delay
+4 -  cant tell, longliness
+
